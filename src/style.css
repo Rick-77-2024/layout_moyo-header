@@ -29,15 +29,15 @@ a {
   height: 40px;
 }
 
-.list {
+.navigation__list {
   display: flex;
 }
 
-.item {
+.navigation__item {
   margin-left: 20px;
 }
 
-.item:first-child {
+.navigation__item:first-child {
   margin-left: 0;
 }
 
